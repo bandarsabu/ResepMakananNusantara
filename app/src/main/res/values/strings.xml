@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Resep Makanan Nusantara</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="time">Lama Memasak</string>
+    <string name="pembuat">Pembuat Resep</string>
+    <string name="rating">Rating</string>
+    <string name="description">Deksripsi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
